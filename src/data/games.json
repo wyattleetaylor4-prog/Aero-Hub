@@ -1,0 +1,75 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Combine the numbers to reach the legendary 2048 tile in this addictive puzzle masterclass.",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=800&auto=format&fit=crop",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle",
+    "isFeatured": true
+  },
+  {
+    "id": "tetris",
+    "title": "Retro Block Puzzle",
+    "description": "The classic block-stacking challenge that defined a generation. Fast, frantic, and fun.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "category": "Arcade"
+  },
+  {
+    "id": "snake",
+    "title": "Neon Snake",
+    "description": "A modern twist on the retro classic. Eat pixels, grow longer, and don't hit the walls.",
+    "thumbnail": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Arcade"
+  },
+  {
+    "id": "chess",
+    "title": "Grandmaster Chess",
+    "description": "Test your strategic mind against the most classic game of kings.",
+    "thumbnail": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?q=80&w=800&auto=format&fit=crop",
+    "iframeUrl": "https://lichess.org/embed/export/chess24",
+    "category": "Strategy"
+  },
+  {
+    "id": "sudoku",
+    "title": "Zen Sudoku",
+    "description": "Find peace in patterns. A minimalist Sudoku experience for the wandering mind.",
+    "thumbnail": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?q=80&w=800&auto=format&fit=crop",
+    "iframeUrl": "https://sudoku.com/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Pulse",
+    "description": "Waka-waka your way through neon corridors while avoiding the spectral hunters.",
+    "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=800&auto=format&fit=crop",
+    "iframeUrl": "https://macek.github.io/google_pacman/",
+    "category": "Arcade"
+  },
+  {
+    "id": "pines-golf",
+    "title": "Cosmic Mini-Golf",
+    "description": "Putt your way through gravitational anomalies and asteroid fields in this zen golf simulator.",
+    "thumbnail": "https://images.unsplash.com/photo-1593926234141-9988182903e1?q=80&w=800&auto=format&fit=crop",
+    "iframeUrl": "https://poki.com/en/g/golf-champions",
+    "category": "Sports"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Neon Dash",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer!",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop",
+    "iframeUrl": "https://scratch.mit.edu/projects/101290485/embed",
+    "category": "Action"
+  },
+  {
+    "id": "minesweeper",
+    "title": "Quantum Mines",
+    "description": "The classic game of logic and deduction, now in deep space format.",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=800&auto=format&fit=crop",
+    "iframeUrl": "https://minesweeperonline.com/",
+    "category": "Strategy"
+  }
+]
